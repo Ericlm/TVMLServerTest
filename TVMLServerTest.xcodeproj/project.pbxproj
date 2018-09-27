@@ -14,7 +14,6 @@
 /* Begin PBXFileReference section */
 		906B42E5215D32F900E42144 /* TVMLServerTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TVMLServerTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		906B42E8215D32F900E42144 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		906B42EA215D32F900E42144 /* application.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = application.js; sourceTree = "<group>"; };
 		906B42EB215D32FC00E42144 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		906B42ED215D32FC00E42144 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -50,7 +49,6 @@
 			isa = PBXGroup;
 			children = (
 				906B42E8215D32F900E42144 /* AppDelegate.swift */,
-				906B42EA215D32F900E42144 /* application.js */,
 				906B42EB215D32FC00E42144 /* Assets.xcassets */,
 				906B42ED215D32FC00E42144 /* Info.plist */,
 			);
